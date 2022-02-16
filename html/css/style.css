@@ -830,7 +830,7 @@ body.dark .loader_line:after{
 }
 .beny_tm_title_holder{
 	width: 100%;
-	max-width: 680px;
+	/* max-width: 680px; */
 	height: auto;
 	clear: both;
 	float: left;
